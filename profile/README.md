@@ -1,4 +1,6 @@
-# Welcome to OpenMindS 🚀
+# OpenMindS
+
+🚀 Welcome to OpenMindS, where innovation meets code!
 
 ## About Us
 
