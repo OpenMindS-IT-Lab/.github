@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Welcome to OpenMindS 🚀
 
 ## About Us
@@ -8,7 +6,7 @@ OpenMindS is not just a software engineering studio; it's a creative hub where i
 
 ## Technical Expertise 👩‍💻
 
-Led by Sam, our skilled software engineer, OpenMindS boasts expertise in a wide array of technologies:
+Led by [Sam](https://www.upwork.com/freelancers/~018d93bd54a3dc120f), our skilled software engineer, OpenMindS boasts expertise in a wide array of technologies:
 
 - Languages: AJAX, ECMAScript, GraphQL, HTML, JavaScript, JSON, MongoDB, MySQL, SQL, Sass, SCSS, TypeScript
 - Libraries: React, Redux, D3.js, Three.js, and more
@@ -35,6 +33,12 @@ At OpenMindS, our core values shape every line of code and every project we unde
 
 Our vision is to be at the forefront of technological innovation, creating software solutions that not only meet but exceed expectations.
 
+## Connect with Sam 🌐
+
+- [Upwork](https://www.upwork.com/freelancers/~018d93bd54a3dc120f)
+- [LinkedIn](https://www.linkedin.com/in/joncolab/)
+- [Telegram](https://joncolab.t.me)
+
 ## Fun Facts 🍿
 
 Ever wondered what fuels our creativity? The OpenMindS team thrives on a breakfast of ideas and coffee, brewing innovation one cup at a time.
@@ -44,13 +48,3 @@ Ever wondered what fuels our creativity? The OpenMindS team thrives on a breakfa
 Feel the magic of collaboration with OpenMindS! ✨
 
 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
